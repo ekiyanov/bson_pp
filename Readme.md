@@ -1,4 +1,4 @@
-##BSON_PP
+## BSON_PP
 
 CLI utility to display content of the BSON documents.
 
